@@ -1,0 +1,16 @@
+{
+  "name": "mcq-back",
+  "version": "1.0.0",
+  "description": "Back end for the mcq ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ahmed-Ezzat",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.8"
+  }
+}

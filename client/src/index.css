@@ -1,0 +1,18 @@
+.name-form {
+  margin-top: 10%;
+
+  padding: 5%;
+}
+
+.submit-btn {
+  margin-top: 10px;
+}
+
+ol {
+  font-size: larger;
+  cursor: pointer;
+}
+
+li:hover {
+  background-color: #f6f6f6;
+}
